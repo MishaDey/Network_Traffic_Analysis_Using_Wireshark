@@ -1,0 +1,2 @@
+# Network_Traffic_Analysis_Using_Wireshark
+Network Traffic Analysis in terms of source/destination IP address/ports from different interfaces, Analysis of the Standard Query and response to Query, Analyzing a Credential Harvester with Wireshark by passing credentials to secure and insecure website. Capture and Analysis of traffic from HTTP, TCP, Bluetooth Packets, UDP (User Datagram Protocol) Packets, Capture and analysis of traffic with only background applications.
